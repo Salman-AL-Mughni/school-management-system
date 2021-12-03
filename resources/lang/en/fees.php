@@ -1,0 +1,33 @@
+<?php
+
+return [
+
+    'name'=>'name',
+    'the amount'=>'the amount',
+    'Educational level'=>'Educational level',
+    'Classroom'=>'Classroom',
+    'academic year'=>'academic year',
+    'Notes'=>'Notes',
+    'Processes'=>'Processes',
+    'Add new fees'=>'Add new fees',
+    'study fees'=>' study fees',
+    'the accounts'=>'the accounts',
+    'Tuition fee adjustment'=>'  Tuition fee adjustment',
+    'Name_ar'=>'Name_ar',
+    'Name_en'=>'Name_en',
+    'the amount'=>'the amount',
+    'Confirm'=>'Confirm',
+    'Are you sure with the deletion process?'=>'Are you sure with the deletion process?',
+    'Fee type'=>'Fee type',
+    'Tuition fees'=>'Tuition fees',
+    'bus fee'=>'bus fee',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+];

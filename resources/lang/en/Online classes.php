@@ -1,0 +1,31 @@
+<?php
+
+return [
+
+    'Online classes'=>'Online classes',
+    'stage'=>'stage',
+    'Classroom'=>'Classroom',
+    'Section'=>'Section',
+    'the teacher'=>'the teacher',
+    'Class title'=>'Class title',
+    'Start Date'=>'Start Date',
+    'class time'=>'class time',
+    'share link'=>'share link',
+    'Processes'=>'Processes',
+    'Add a new online share'=>'Add a new online share',
+    'Add a new offline share'=>'Add a new offline share',
+    'Add a new share'=>'  Add a new share',
+    'Class date and time'=>'Class date and time',
+    'Class duration in minutes'=>'Class duration in minutes',
+    'meeting number'=>'meeting number',
+    'meeting password'=>'meeting password',
+    'link start'=>'link start',
+    'Link to login for students'=>'Link to login for students',
+    'Are you sure with the deletion process?'=>'Are you sure with the deletion process?',
+    'Online classes with Zoom'=>'Online classes with Zoom',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+];

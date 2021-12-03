@@ -1,0 +1,30 @@
+<?php
+
+return [
+
+    'Online classes'=>'حصص اون لاين',
+    'stage'=>'المرحلة',
+    'Classroom'=>'الصف',
+    'Section'=>'القسم',
+    'the teacher'=>'المعلم',
+    'Class title'=>'عنوان الحصة',
+    'Start Date'=>'تاريخ البداية',
+    'class time'=>'وقت الحصة',
+    'share link'=>'رابط الحصة',
+    'Processes'=>'العمليات',
+    'Add a new online share'=>'اضافة حصة اونلاين جديدة',
+    'Add a new offline share'=>'اضافة حصة اوفلاين جديدة',
+    'Add a new share'=>'  اضافة حصة جديدة',
+    'Class date and time'=>'تاريخ ووقت الحصة',
+    'Class duration in minutes'=>'مدة الحصة بالدقائق',
+    'meeting number'=>'رقم الاجتماع',
+    'meeting password'=>'كلمة المرور الاجتماع',
+    'link start'=>'لينك البدء',
+    'Link to login for students'=>'لينك الدخول للطلاب',
+    'Are you sure with the deletion process?'=>'هل انت متاكد مع عملية الحذف ؟',
+    'Online classes with Zoom'=>'حصص اون لاين مع زوم',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+];
