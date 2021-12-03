@@ -22,6 +22,8 @@ class LoginController extends Controller
 
     use AuthenticatesUsers;
 
+    protected $redirectTo = RouteServiceProvider::HOME;
+
     public function loginForm($type){
 
         return view('auth.login',compact('type'));
